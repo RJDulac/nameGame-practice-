@@ -1,0 +1,15 @@
+.btn {
+    height: 3rem;
+    width: 6rem;
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+    font-size: 1.2rem;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 1px solid black;
+    display: inline-block;
+}
